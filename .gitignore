@@ -1,0 +1,13 @@
+# Secrets — use wp-config-sample.php as reference
+wp-config.php
+
+# Runtime / large / sensitive
+wp-content/uploads/
+wp-content/backups-dup-lite/
+wp-content/debug.log
+wp-content/upgrade/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
